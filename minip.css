@@ -1,0 +1,137 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/037/425/690/small_2x/ai-generated-assorted-chocolate-mint-ice-cream-flavors-four-scoops-on-white-background-in-light-yellow-and-dark-aquamarine-style-photo.jpg);
+    background-size: cover;
+}
+.icecream {
+    height: 150px;
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    color: black;
+    font-size: 15px;
+    font-family: fantasy;
+    text-align: center;
+    margin-bottom: 150px;
+    border: 1px solid black;
+    box-shadow: 1px 4px 8px rgb(255, 192, 239);
+    transition: 1s;
+    
+ 
+}
+p {
+    color: rgba(0, 126, 128, 0.97);
+    font-size: 19px;
+    margin-left: 70px;
+    text-align: center;
+ }
+ #about {
+display: flex;
+flex-wrap:wrap ;
+justify-content: space-evenly;
+
+    
+}
+h2 {
+    color:black;
+    width:20%;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#parent {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+
+ 
+
+}
+h1{
+    color:rgb(0,0,0);
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+
+}
+img {
+    border-radius: 50%;
+    height: 400px;
+    width: 350px;
+}
+#flavours {
+    text-align: center;
+    font-size: 60px;
+    color:rgba(0, 0, 0, 0.817);
+    width: 100%;
+    margin-top: 150px;
+    font-family:  Geneva ;
+    margin-bottom: 100px
+    
+
+}
+#tag {
+    color: black;
+    text-align: center;
+    width:60%;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+#first {
+background-image: url(https://tse4.mm.bing.net/th?id=OIP.jAqljebruCb4gS5Kj5UFIwHaJe&pid=Api&P=0&h=220);
+background-size: cover;
+
+
+
+}
+#second {
+    background-image: url(https://i.pinimg.com/736x/bf/f2/d6/bff2d64996ff97b13db7ce1370bcab8a.jpg);
+    background-size: cover;
+    
+}
+#third {
+    background-image: url(https://princesspinkygirl.com/wp-content/uploads/2020/07/Cotton-Candy-Ice-Cream-hero-1023x1536.jpg);
+    background-size: cover;
+}
+#fourth {
+    background-image:url(https://www.naturesgold.global/cdn/shop/articles/Cherry_and_almond_ice_cream.png?v=1701721266&width=2160);
+    background-size: cover;
+}
+#fifth {
+    background-image:url(https://5.imimg.com/data5/SELLER/Default/2021/2/UZ/FD/XU/110446045/black-currant-ice-cream-1000x1000.jpeg) ;
+    background-size: cover;
+}
+.icecream:hover {
+    box-shadow:1px 8px 16px black;
+}
+.time {
+    font-size: 20px;
+    text-align: center;
+    width:20%;
+    font-family: sans-serif;
+    
+}
+#line {
+   background-color:black;
+    margin-bottom: 0px;
+    
+}
+#time {
+    color: black;
+    text-align:center ;
+    width:10%;
+    margin-bottom: 100px;
+}
+#contact {
+    font-size: 20px;
+    text-align: center;
+    
+    font-family: sans-serif;
+    color: black;
+    
+}
+#email {
+ color: black;
+ text-align: center;
+}
